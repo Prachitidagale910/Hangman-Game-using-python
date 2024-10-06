@@ -22,8 +22,6 @@ In this game:
    - You guess the word correctly and win.
    - You run out of lives and lose.
 
-## Example Game Play
-
 
 ## Example Game Play
 
