@@ -1,5 +1,3 @@
-
-```markdown
 # Hangman Game
 
 Welcome to the Hangman Game! This is a simple Python implementation of the classic Hangman game, where the player must guess the letters of a randomly selected word before running out of lives.
@@ -23,6 +21,9 @@ In this game:
 6. The game ends when:
    - You guess the word correctly and win.
    - You run out of lives and lose.
+
+## Example Game Play
+
 
 ## Example Game Play
 
@@ -69,7 +70,6 @@ Lives left: 5
 
 ```bash
 python hangman.py
-```
 
 4. Follow the on-screen instructions to play the game.
 
