@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for the Hangman game you shared:
 
 ```markdown
 # Hangman Game
